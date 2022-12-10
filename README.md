@@ -1,4 +1,4 @@
-# Hacking a Bluetooth Device
+# Hacking a Bluetooth Device - Null Kolkata
 
 This is a simple demonstration of how one can hack a Bluetooth device by enumerating the characteristics and its controls to write arbitrary data that will indeed control the device.
 
